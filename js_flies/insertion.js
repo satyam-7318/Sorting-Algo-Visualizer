@@ -1,5 +1,5 @@
 async function insertion(){
-    console.log('In insertion()');
+//     console.log('In insertion()');
     const ele = document.querySelectorAll(".bar");
     // color
     ele[0].style.background = 'green';
